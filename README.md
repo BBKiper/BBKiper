@@ -1,5 +1,4 @@
 
-
 ## Konstantin Kiper
 
 Kyiv, Ukraine,
@@ -12,13 +11,11 @@ email: bbkiper@gmail.com
 
 ●Knowledge of Windows OS family, basic administration
 ●Knowledge of Linux OS family, confident administration, troubleshooting
-●Understanding the functioning of computer networks, their construction and network
-technologies
+●Understanding the functioning of computer networks, their construction and network technologies
 ●Working with Linux file systems, lvm partitions, software and hardware raid
 ●Configuring network services and interfaces (iptables, dhcp, bridge, vpn)
 ●Experience in writing and reading bash scripts, ansible-playbook's
-●Experience in configuring web servers - apache, nginx (+php-fpm), haproxy (as load
-balancer/reverse proxy), mysql (+replication. clustering), ftp, redis/memcahe etc.
+●Experience in configuring web servers - apache, nginx (+php-fpm), haproxy (as load balancer/reverse proxy), mysql (+replication. clustering), ftp, redis/memcahe etc.
 ●Experience with server control panels
 ●Experience with containerization docker, docker-compose, docker swarm
 ●Experience with mail servers (postfix+dovecot+opendkim)
@@ -39,13 +36,13 @@ June 2021 – present time
 ●configuring/deploying/ensuring the smooth operation of servers and processes on them
 ●support of project deployment processes
 ●execution regulatory processes
-●writing tech.l documentation
+●writing tech documentation
 ●management and development whole IT infrastructure of the company
 
 May 2019 – June 2021
 **TopAdmin, Kyiv– Support Engineer**
 
-●Administration of servers / sites2
+●Administration of servers / sites
 ●Installation and configuration / administration of a web stack, mail
 ●Configuring and ensuring fault-tolerant operation of servers and services, deploying
 ●Administration and deployment of full construction hostings
@@ -56,15 +53,12 @@ August 2017 – May 2019
 **GMHost, Khmelnitsky – Support Engineer**
 
 ●Working with clients (consultation, assistance in setting up)
-●Installation, configuration and administration of Windows Server OS, Linux systems and
-their services (software)
+●Installation, configuration and administration of Windows Server OS, Linux systems and their services (software)
 ●Installing and configuring web servers/mysql/php
 ●Transfer of sites / data of new clients
 ●Experience with control panels ISPmanager, Cpanel, VestaCP etc.
-●Primary diagnostics of malfunctions and node assembly / disassembly of servers, scheduled
-/ unscheduled work on the technical site
-●Technical support of the company's clients in the provision of hosting and data center
-services
+●Primary diagnostics of malfunctions and node assembly / disassembly of servers, scheduled / unscheduled work on the technical site
+●Technical support of the company's clients in the provision of hosting and data center services
 ●Data center monitoring
 
 January 2015 – August 2017
@@ -74,8 +68,7 @@ January 2015 – August 2017
 ●Installing, configuring and administering a server based Win Server
 ●Organization of terminal access
 ●Configuring and administering a video surveillance system
-●Setting up and ensuring the smooth operation of the company's workstations, as well as
-other peripherals and office equipment
+●Setting up and ensuring the smooth operation of the company's workstations, as well as other peripherals and office equipment
 
 ## Education
 
